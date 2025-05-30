@@ -1,0 +1,238 @@
+{
+  "name": "Dr. Stefan Dillinger",
+  "shortName": "SD",
+  "org": "Active Motif SA",
+  "image": "/assets/images/avatar.jpg",
+  "title": "Podcast Host & Scientific Consultant",
+  "currentFocus": "Making Epigenetics Accessible — Through Podcast Conversations & Tech Support",
+  "location": "Straubing, Germany",
+  "email": "stefan@raincastle.blog",
+  "address": {
+    "streetAddress": "Baderstr. 8",
+    "addressLocality": "Straubing",
+    "addressRegion": "Bayern",
+    "postalCode": "94315",
+    "addressCountry": "Germany"
+  },
+  "telephone": "+49 176 22729454",
+  "website": "https://www.stefandillinger.de",
+  "connect": [
+    {
+      "name": "linkedin",
+      "icon": "<svg stroke=\"currentColor\" fill=\"currentColor\" stroke-width=\"0\" viewBox=\"0 0 448 512\" class=\"w-6 h-6\" height=\"1em\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z\"></path></svg>",
+      "url": "https://www.linkedin.com/in/stefandillinger/"
+    },
+    {
+      "name": "Github",
+      "icon": "<svg stroke=\"currentColor\" fill=\"currentColor\" stroke-width=\"0\" viewBox=\"0 0 496 512\" class=\"w-6 h-6\" height=\"1em\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z\"></path></svg>",
+      "url": "https://github.com/johndillinger15"
+    },
+    {
+      "name": "Mastodon",
+      "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"w-6 h-6\" height=\"1em\" width=\"1em\" fill=\"currentColor\" viewBox=\"0 0 16 16\"><path d=\"M11.19 12.195c2.016-.24 3.77-1.475 3.99-2.603.348-1.778.32-4.339.32-4.339 0-3.47-2.286-4.488-2.286-4.488C12.062.238 10.083.017 8.027 0h-.05C5.92.017 3.942.238 2.79.765c0 0-2.285 1.017-2.285 4.488l-.002.662c-.004.64-.007 1.35.011 2.091.083 3.394.626 6.74 3.78 7.57 1.454.383 2.703.463 3.709.408 1.823-.1 2.847-.647 2.847-.647l-.06-1.317s-1.303.41-2.767.36c-1.45-.05-2.98-.156-3.215-1.928a3.614 3.614 0 0 1-.033-.496s1.424.346 3.228.428c1.103.05 2.137-.064 3.188-.189zm1.613-2.47H11.13v-4.08c0-.859-.364-1.295-1.091-1.295-.804 0-1.207.517-1.207 1.541v2.233H7.168V5.89c0-1.024-.403-1.541-1.207-1.541-.727 0-1.091.436-1.091 1.296v4.079H3.197V5.522c0-.859.22-1.541.66-2.046.456-.505 1.052-.764 1.793-.764.856 0 1.504.328 1.933.983L8 4.39l.417-.695c.429-.655 1.077-.983 1.934-.983.74 0 1.336.259 1.791.764.442.505.661 1.187.661 2.046v4.203z\"/></svg>",
+      "url": "https://sueden.social/@johndillinger15"
+    },
+    {
+      "name": "Bluesky",
+      "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 57\" class=\"w-6 h-6\" fill=\"currentColor\"><path d=\"M13.873 3.805C21.21 9.332 29.103 20.537 32 26.55v15.882c0-.338-.13.044-.41.867-1.512 4.456-7.418 21.847-20.923 7.944-7.111-7.32-3.819-14.64 9.125-16.85-7.405 1.264-15.73-.825-18.014-9.015C1.12 23.022 0 8.51 0 6.55 0-3.268 8.579-.182 13.873 3.805ZM50.127 3.805C42.79 9.332 34.897 20.537 32 26.55v15.882c0-.338.13.044.41.867 1.512 4.456 7.418 21.847 20.923 7.944 7.111-7.32 3.819-14.64-9.125-16.85 7.405 1.264 15.73-.825 18.014-9.015C62.88 23.022 64 8.51 64 6.55c0-9.818-8.578-6.732-13.873-2.745Z\"/></svg>",
+      "url": "https://bsky.app/profile/johndillinger15.bsky.social"
+    },
+    {
+      "name": "Instagram",
+      "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" class=\"w-6 h-6\" fill=\"currentColor\"><path d=\"M7.75 2h8.5A5.75 5.75 0 0 1 22 7.75v8.5A5.75 5.75 0 0 1 16.25 22h-8.5A5.75 5.75 0 0 1 2 16.25v-8.5A5.75 5.75 0 0 1 7.75 2zm0 1.5A4.25 4.25 0 0 0 3.5 7.75v8.5A4.25 4.25 0 0 0 7.75 20.5h8.5A4.25 4.25 0 0 0 20.5 16.25v-8.5A4.25 4.25 0 0 0 16.25 3.5h-8.5zM12 7a5 5 0 1 1 0 10 5 5 0 0 1 0-10zm0 1.5a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0-7zm5.25-.88a.88.88 0 1 1 0 1.76.88.88 0 0 1 0-1.76z\"/></svg>",
+      "url": "https://instagram.com/johndillinger_15"
+    }
+  ],
+  "skills": [
+    {
+      "type": "On the Job",
+      "tools": [
+        {
+          "language": "Customer-centricity",
+          "icon": ""
+        },
+        {
+          "language": "Customer experience",
+          "icon": ""
+        },
+        {
+          "language": "Digital marketing",
+          "icon": ""
+        },
+        {
+          "language": "Brand awareness",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "type": "Software",
+      "tools": [
+        {
+          "language": "Salesforce.com",
+          "icon": ""
+        },
+        {
+          "language": "Office 365",
+          "icon": ""
+        },
+        {
+          "language": "Visual Studio Code",
+          "icon": ""
+        },
+        {
+          "language": "FileMaker",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "type": "Languages",
+      "tools": [
+        {
+          "language": "German (native)",
+          "icon": ""
+        },
+        {
+          "language": "English (fluent)",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "type": "Other Skills",
+      "tools": [
+        {
+          "language": "HTML",
+          "icon": ""
+        },
+        {
+          "language": "11ty",
+          "icon": ""
+        },
+        {
+          "language": "Python",
+          "icon": ""
+        },
+        {
+          "language": "AI-Tools",
+          "icon": ""
+        },
+        {
+          "language": "LATEX",
+          "icon": ""
+        },
+        {
+          "language": "GitHub",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "type": "Soft Skills",
+      "tools": [
+        {
+          "language": "Teamwork",
+          "icon": ""
+        },
+        {
+          "language": "Independent Work",
+          "icon": ""
+        },
+        {
+          "language": "Reliability",
+          "icon": ""
+        },
+        {
+          "language": "Intrinsically Motivated",
+          "icon": ""
+        }
+      ]
+    }
+  ],
+  "worksFor": [
+    {
+      "companyName": "Active Motif SA",
+      "title": "Podcast Host & Scientific Consultant",
+      "time_start": "Aug 2016",
+      "time_end": "Present",
+      "link": "https://www.activemotif.com/",
+      "isCurrent": true
+    },
+    {
+      "companyName": "Université Laval, Québec City, Canada",
+      "title": "Visiting Scientist",
+      "time_start": "Sep 2013",
+      "time_end": "Dec 2013",
+      "isCurrent": false
+    },
+    {
+      "companyName": "University of Regensburg",
+      "title": "Research Associate",
+      "time_start": "May 2012",
+      "time_end": "Mar 2016",
+      "link": "",
+      "isCurrent": false
+    }
+  ],
+  "alumniOf": [
+    {
+      "org": "Biochemistry Center Regensburg",
+      "certification": "Doctoral Candidate",
+      "year_start": "2012",
+      "year_end": "2016",
+      "address": {
+        "addressRegion": "Bavaria",
+        "addressCountry": "Germany"
+      }
+    },
+    {
+      "org": "University of Regensburg",
+      "certification": "Master of Science, Biochemistry",
+      "year_start": "2009",
+      "year_end": "2012",
+      "address": {
+        "addressRegion": "Bavaria",
+        "addressCountry": "Germany"
+      }
+    },
+    {
+      "org": "University of Ulm",
+      "certification": "Bachelor of Science, Biochemistry",
+      "year_start": "2006",
+      "year_end": "2009",
+      "address": {
+        "addressRegion": "Baden-Württemberg",
+        "addressCountry": "Germany"
+      }
+    }
+  ],
+  "hasCredential": [
+    {
+      "org": "LinkedIn",
+      "certification": "LinkedIn Learning",
+      "year": "2023",
+      "link": "https://example.com"
+    }
+  ],
+  "publishes": [
+    {
+      "title": "The nucleolus-associated genome is largely maintained in cellular senescence, but its chromatin composition gets remodeled",
+      "date": "Dillinger S, Straub T, Németh A",
+      "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178821",
+      "details": "PLoS One. 2017 Jun 2;12(6):e0178821. doi:10.1371/journal.pone.0178821. PMID:28575119; PMCID:PMC5456395"
+    },
+    {
+      "title": "Quantitative Immunofluorescence Analysis of Nucleolus-Associated Chromatin",
+      "date": "Dillinger S, Németh A",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/27576710/",
+      "details": "Methods Mol Biol. 2016;1455:59-69. doi: 10.1007/978-1-4939-3792-9_5. PMID: 27576710"
+    },
+    {
+      "title": "Analysis of histone posttranslational modifications from nucleolus-associated chromatin by mass spectrometry",
+      "date": "Dillinger S, Garea AV, Deutzmann R, Németh A",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/24162996/",
+      "details": "Methods Mol Biol. 2014;1094:277-93. doi: 10.1007/978-1-62703-706-8_22. PMID: 24162996"
+    }
+  ]
+}
