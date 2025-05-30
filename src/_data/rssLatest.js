@@ -34,5 +34,8 @@ module.exports = async function () {
     }
   }
 
+  // Sort by date (newest first)
+  latestItems.sort((a, b) => b.date - a.date);
+
   return latestItems;
 };
