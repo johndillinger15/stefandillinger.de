@@ -853,12 +853,6 @@ video {
   overflow: hidden;
 }
 
-.truncate {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
-
 .text-pretty {
   text-wrap: pretty;
 }
@@ -879,16 +873,12 @@ video {
   border-width: 1px;
 }
 
-.border-0 {
-  border-width: 0px;
-}
-
-.border-b {
-  border-bottom-width: 1px;
-}
-
 .border-l-2 {
   border-left-width: 2px;
+}
+
+.border-l-4 {
+  border-left-width: 4px;
 }
 
 .border-r {
@@ -903,17 +893,8 @@ video {
   border-top-width: 4px;
 }
 
-.border-l-4 {
-  border-left-width: 4px;
-}
-
 .border-dashed {
   border-style: dashed;
-}
-
-.border-husky-200 {
-  --tw-border-opacity: 1;
-  border-color: rgb(191 231 219 / var(--tw-border-opacity));
 }
 
 .border-husky-400 {
@@ -994,10 +975,6 @@ video {
   padding-bottom: 1rem;
 }
 
-.pb-4 {
-  padding-bottom: 1rem;
-}
-
 .pb-8 {
   padding-bottom: 2rem;
 }
@@ -1028,11 +1005,6 @@ video {
 
 .text-justify {
   text-align: justify;
-}
-
-.text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
 }
 
 .text-4xl {
@@ -1141,12 +1113,6 @@ video {
 .shadow-md {
   --tw-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
   --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color);
-  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
-}
-
-.shadow-sm {
-  --tw-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);
-  --tw-shadow-colored: 0 1px 2px 0 var(--tw-shadow-color);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
@@ -1406,6 +1372,11 @@ video {
     background-color: rgb(17 32 30 / var(--tw-bg-opacity));
   }
 
+  .dark\:text-gray-400 {
+    --tw-text-opacity: 1;
+    color: rgb(156 163 175 / var(--tw-text-opacity));
+  }
+
   .dark\:text-husky-400 {
     --tw-text-opacity: 1;
     color: rgb(119 191 174 / var(--tw-text-opacity));
@@ -1419,11 +1390,6 @@ video {
   .dark\:text-husky-600 {
     --tw-text-opacity: 1;
     color: rgb(70 133 122 / var(--tw-text-opacity));
-  }
-
-  .dark\:text-gray-400 {
-    --tw-text-opacity: 1;
-    color: rgb(156 163 175 / var(--tw-text-opacity));
   }
 
   .before\:dark\:bg-husky-600::before {
