@@ -48,19 +48,19 @@
       "type": "On the Job",
       "tools": [
         {
-          "language": "Customer-centricity",
+          "language": "Customer-Centricity",
           "icon": ""
         },
         {
-          "language": "Customer experience",
+          "language": "Customer Experience",
           "icon": ""
         },
         {
-          "language": "Digital marketing",
+          "language": "Digital Marketing",
           "icon": ""
         },
         {
-          "language": "Brand awareness",
+          "language": "Brand Awareness",
           "icon": ""
         }
       ]
@@ -103,11 +103,15 @@
       "type": "Other Skills",
       "tools": [
         {
-          "language": "HTML",
+          "language": "Static Site Generation (11ty)",
           "icon": ""
         },
         {
-          "language": "11ty",
+          "language": "Nunjucks",
+          "icon": ""
+        },
+        {
+          "language": "Tailwind CSS",
           "icon": ""
         },
         {
@@ -115,15 +119,19 @@
           "icon": ""
         },
         {
-          "language": "AI-Tools",
+          "language": "AI Prompt Engineering",
           "icon": ""
         },
         {
-          "language": "LATEX",
+          "language": "LaTeX",
           "icon": ""
         },
         {
-          "language": "GitHub",
+          "language": "Markdown",
+          "icon": ""
+        },
+        {
+          "language": "Git",
           "icon": ""
         }
       ]
