@@ -39,6 +39,8 @@ assets/js/min.*
 
 deploy
 
+docs/
+
 .vscode
 
 _webmentioncache/webmentions.json
