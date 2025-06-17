@@ -39,6 +39,9 @@ assets/js/min.*
 
 deploy
 
+# Static content
+_site/
+dist/
 docs/
 
 .vscode
