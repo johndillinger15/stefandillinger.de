@@ -24,6 +24,7 @@ module.exports = async function () {
     "https://activemotif.podbean.com/feed.xml",
     "https://inside-the-dugout.de/feed.rss",
     "https://raincastle.blog/blog.rss",
+    "https://epigenetics-podcast.micro.blog/feed.xml"
   ];
 
   let latestItems = [];
