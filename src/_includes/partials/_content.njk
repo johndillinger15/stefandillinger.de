@@ -4,7 +4,7 @@
     {% for item in rssLatest %}
       <article class="px-6">
         <h4 class="font-bold">
-          <a href="{{ item.link }}" class="link" target="_blank" rel="noopener noreferrer nofollow">
+          <a href="{{ item.link }}" class="link" data-umami-event="content" target="_blank" rel="noopener noreferrer nofollow">
             {{ item.title }}
           </a>
         </h4>
