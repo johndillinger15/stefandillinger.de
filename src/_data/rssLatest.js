@@ -1,3 +1,5 @@
+const fs = require("fs");
+const path = require("path");
 const Parser = require("rss-parser");
 const parser = new Parser();
 
@@ -24,10 +26,11 @@ module.exports = async function () {
     "https://activemotif.podbean.com/feed.xml",
     "https://inside-the-dugout.de/feed.rss",
     "https://raincastle.blog/blog.rss",
-    "https://epigenetics-podcast.micro.blog/feed.xml"
   ];
 
   let latestItems = [];
+
+  // Fetch RSS feeds
   for (const url of urls) {
     const latest = await fetchFeed(url);
     if (latest && latest.date && !isNaN(latest.date)) {
@@ -35,7 +38,16 @@ module.exports = async function () {
     }
   }
 
-  // Sort by date (newest first)
+  // Load manual content
+  const manualFile = path.join(__dirname, "manualContent.json"); // same folder
+  if (fs.existsSync(manualFile)) {
+    const manualContent = JSON.parse(fs.readFileSync(manualFile, "utf-8")).map(
+      (item) => ({ ...item, date: new Date(item.date) })
+    ); // convert dates
+    latestItems.push(...manualContent);
+  }
+
+  // Sort newest first
   latestItems.sort((a, b) => b.date - a.date);
 
   return latestItems;
