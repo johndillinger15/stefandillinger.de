@@ -39,7 +39,7 @@ module.exports = async function () {
   }
 
   // Load manual content
-  const manualFile = path.join(__dirname, "manualContent.json"); // same folder
+  const manualFile = path.join(__dirname, "manualcontent.json"); // same folder
   if (fs.existsSync(manualFile)) {
     const manualContent = JSON.parse(fs.readFileSync(manualFile, "utf-8")).map(
       (item) => ({ ...item, date: new Date(item.date) })
